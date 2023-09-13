@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<companies> 
+<company> 
+<company-id>1246218246</company-id> 
+<name lang="ru">Кафе Сайгон</name> 
+<shortname lang="ru">Сайгон</shortname> 
+<address lang="ru">город  Москва, ул. Сущёвский Вал, 5, стр. 22, </address> 
+<country lang="ru">Россия</country> <address-add lang="ru"></address-add> 
+<phone> <type>phone</type> <number>+7 (916) 310-28-88</number> <info/> </phone>
+<email>cafesaigon.msk@gmail.com</email>
+<url>https://kafe-sajgon.clients.site</url>
+<add-url></add-url> 
+<info-page></info-page>
+<working-time lang="ru">ежедн. 11:30 – 00:00</working-time> 
+<rubric-id>184106390</rubric-id>
+<photos gallery-url="https://yandex.ru/maps/org/kafe_saygon/1246218246/gallery">
+<photo url="https://avatars.mds.yandex.net/get-altay/9833397/2a00000188f47ceae29adfd31854e00c1ed3/XXL_height" alt="Кафе Сайгон (ул. Сущёвский Вал, 5, стр. 22, Москва), кафе" type="interior"></photo> 
+<photo url="https://avatars.mds.yandex.net/get-altay/905403/2a000001628787889f596592f0eb6ef51c54/XXXL" alt="Кафе Сайгон (ул. Сущёвский Вал, 5, стр. 22, Москва), кафе"> <tag>EXTERIOR</tag> </photo>
+<photo url="https://avatars.mds.yandex.net/get-altay/1464052/2a00000169080b76cfb8759aeb03904551e3/XXL_height" alt="Кафе Сайгон (ул. Сущёвский Вал, 5, стр. 22, Москва), кафе"></photo>
+<photo url="https://avatars.mds.yandex.net/get-altay/9833397/2a00000188f47ceae29adfd31854e00c1ed3/XXXL"> <tag>FOOD</tag> </photo> </photos> 
+<actualization-date></actualization-date>
+<coordinates> <lon>37.592724</lon> <lat>55.793128</lat> </coordinates> 
+</company> 
+</companies>
