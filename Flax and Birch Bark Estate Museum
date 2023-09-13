@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<companies>
+<company> 
+<company-id>1056201572</company-id> 
+<name lang="ru">Музей-усадьба льна и бересты</name> 
+<shortname lang="ru">Музей-усадьба льна и бересты</shortname> <address lang="ru">город Кострома, 
+ул. Терешковой, 38</address>
+<country lang="ru">Россия</country> 
+<phone> <number>+7 (4942) 31-05-89</number> <info>Справочная (тел./факс)</info> <type>phone</type> </phone>
+<phone> <number>+7 (920) 390-97-91</number> <info/> <type>phone</type> </phone> 
+<email> info@linenmuseum.ru</email> 
+<url>http://shop.linenmuseum.ru/</url> 
+<add-url>http://www.linenmuseum.ru/</add-url> 
+<info-page></info-page>
+<working-time lang="ru">ежедн. 09:30 – 18:00</working-time> 
+<rubric-id>184105894</rubric-id> 
+<photos gallery-url="https://avatars.mds.yandex.net/get-altay"> 
+<photo url="https://avatars.mds.yandex.net/get-altay/1680678/2a0000016a86fd618fb5ad8433433bfb8f79/XXXL" type="interior"></photo> 
+<photo url="https://avatars.mds.yandex.net/get-altay/248099/2a0000015dcc7730da7629ffb7de75b0de57/XXXL"> <tag>EXTERIOR</tag> </photo>
+<photo url="https://avatars.mds.yandex.net/get-altay/1881820/2a0000016a86fc7eed9a2621d80fad7d92a4/XXXL"></photo> </photos>
+<coordinates> <lon>40.912275</lon> <lat>57.778283</lat> </coordinates>
+</company> 
+</companies>
